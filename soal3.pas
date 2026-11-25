@@ -1,0 +1,2 @@
+program tiga;
+uses crt;

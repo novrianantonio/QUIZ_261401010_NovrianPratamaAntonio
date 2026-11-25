@@ -1,0 +1,2 @@
+program empat;
+uses crt;
